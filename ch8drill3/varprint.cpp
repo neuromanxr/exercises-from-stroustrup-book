@@ -1,0 +1,2 @@
+namespace VarPrint {
+    struct var

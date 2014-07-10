@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1373734057 source:c:\temp\beginning_programming-cpp\ch8drill\my.cpp
+	"my.h"
+	"std_lib_facilities.h"
+
+1373684779 c:\temp\beginning_programming-cpp\ch8drill\my.h
+
+1373734082 source:c:\temp\beginning_programming-cpp\ch8drill\use.cpp
+	"my.h"
+

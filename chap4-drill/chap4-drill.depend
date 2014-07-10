@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1370479667 source:c:\temp\beginning_programming-cpp\chap4-drill\main.cpp
+	<iostream>
+	"c:\mingw\include\std_lib_facilities.h"
+
+1369350786 c:\mingw\include\std_lib_facilities.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<vector>
+	<algorithm>
+	<stdexcept>
+	<hash_map>
+	<ext/hash_map>
+	<iomanip>
+
